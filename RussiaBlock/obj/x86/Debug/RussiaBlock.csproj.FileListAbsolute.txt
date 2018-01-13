@@ -1,0 +1,14 @@
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\RussiaBlock.exe.config
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\RussiaBlock.exe
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\RussiaBlock.pdb
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\Microsoft.DirectX.AudioVideoPlayback.DLL
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\Microsoft.DirectX.DirectSound.DLL
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\Microsoft.DirectX.DLL
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.MainForm.resources
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.SettingForm.resources
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.csproj.GenerateResource.Cache
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.exe
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.pdb
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\x86\Debug\RussiaBlock.csproj.CoreCompileInputs.cache

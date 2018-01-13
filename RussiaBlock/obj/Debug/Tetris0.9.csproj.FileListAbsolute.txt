@@ -1,0 +1,8 @@
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\bin\Debug\Tetris0.9.exe
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\bin\Debug\Tetris0.9.pdb
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0.9.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0._9.MainForm.resources
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0._9.SettingForm.resources
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0.9.csproj.GenerateResource.Cache
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0.9.exe
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0.9.pdb

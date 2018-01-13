@@ -1,0 +1,29 @@
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\bin\Debug\Tetris0.9.exe
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\bin\Debug\Tetris0.9.pdb
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\RussiaBlock.MainForm.resources
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\RussiaBlock.SettingForm.resources
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\RussiaBlock.csproj.GenerateResource.Cache
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0.9.exe
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\Tetris0.9.pdb
+C:\Users\付景昌\Downloads\c#实现的俄罗斯方块程序(源码)\Tetris0.9\Tetris0.9\obj\Debug\RussiaBlock.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\bin\Debug\Tetris0.9.exe
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\bin\Debug\Tetris0.9.pdb
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\obj\Debug\RussiaBlock.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\obj\Debug\RussiaBlock.MainForm.resources
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\obj\Debug\RussiaBlock.SettingForm.resources
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\obj\Debug\RussiaBlock.csproj.GenerateResource.Cache
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\obj\Debug\Tetris0.9.exe
+C:\Users\付景昌\Desktop\Russia Block\Tetris0.9\obj\Debug\Tetris0.9.pdb
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\Debug\RussiaBlock.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\Debug\RussiaBlock.MainForm.resources
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\Debug\RussiaBlock.SettingForm.resources
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\Debug\RussiaBlock.csproj.GenerateResource.Cache
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.DLL
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\Microsoft.DirectX.DirectSound.DLL
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\Microsoft.DirectX.DLL
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\RussiaBlock.exe.config
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\RussiaBlock.exe
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\bin\Debug\RussiaBlock.pdb
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\Debug\RussiaBlock.exe
+C:\Users\付景昌\Desktop\Russia Block\RussiaBlock\obj\Debug\RussiaBlock.pdb
